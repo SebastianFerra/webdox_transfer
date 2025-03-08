@@ -1,0 +1,12 @@
+fastapi==0.112.1
+uvicorn==0.30.6
+requests==2.32.3
+pydantic==2.8.2
+thefuzz==0.22.1
+paddleocr==2.8.1
+pytesseract==0.3.10
+paddlepaddle==2.6.1
+python-multipart
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+pandas
